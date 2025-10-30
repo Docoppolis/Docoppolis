@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Parrott</h1>
 <h3 align="center">A passionate backend and game developer from the U.S.</h3>
 
-- 🔭 I’m currently working on [Voting_System](https://github.com/Docoppolis/Voting_System)
+- 🔭 I’m currently working on [Docoppolis_Web_Server]([https://github.com/Docoppolis/Voting_System](https://github.com/Docoppolis/Docoppolis-Web-Server))
 
-- 🌱 I’m currently learning **Pistache & Docker**
+- 🌱 I’m currently learning **Low-level web server architecture in C#**
 
 - 📫 How to reach me **j.parrott653@gmail.com**
 
